@@ -104,3 +104,4 @@ The project leverages **ResNet-50** with transfer learning, fine-tuned for ASUâ€
 - [Paper Reference - IJERT Volume 09 Issue 05, May 2020](https://www.ijert.org/volume-09-issue-05-may-2020)
 - [GitHub - Face Recognition Code by aakashjhawar](https://github.com/aakashjhawar/face-recognition-using-deep-learning)
 - [GitHub - Celebrity Face Recognition by Srikeshram](https://github.com/Srikeshram/Celebrity-Face-Recognition)
+
